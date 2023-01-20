@@ -6,6 +6,6 @@ Hi, my name is Mayra! Here I will write some notes about my classes and learning
 
 Three reminders to stay in a growth mindset: 
 
-1.
-2.
-3.
+1. Reminder 1
+2. Reminder 2
+3. Reminder 3
