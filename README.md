@@ -8,9 +8,9 @@ On this site I will post some notes and thoughts about my classes and learning p
 
 In my first class, we discussed what it means to have a growth mindset, which involves removing from our minds the idea that our talents and abilities are fixed and determined; and instead agreeing with the affirmation that our potential and abilities can always grow and develop to reach their full potential, as long as we work hard and persevere. 
 
-I though about my current goal of becoming a software developer. I know I will face challenges and obstacles, and sometimes I even can feel tempted to throw in the towel, but I have to remember to keep a growth mindset always, especially in moments of frustration. 
+I though about my current goal of becoming a software developer. I know I will face challenges and obstacles, and sometimes I even can feel tempted to throw in the towel, but I have to ***remember to keep a growth mindset*** always, especially in moments of frustration. 
 
-Three reminders to stay in a growth mindset: 
+### Three reminders to stay in a growth mindset
 
 1. When hitting an obstacle like when you get stuck trying to solve a problem in your code, remember to breathe and step away for a short period of time. That brief moment will help you relax and may help reduce frustration. 
 
