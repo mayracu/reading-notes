@@ -28,10 +28,14 @@ In this first class I was introduced to Markdown, which is a markup language pro
 
 ### Fill-in-the-blank key concepts
 
-
-
-
-
+    - Headings: To create a heading, add this sign (#) in front of a word or phrase. 
+    - URL and email addresses: To turn a URL or email address into a link, enclose it in angle brackets.
+    - Quotes: You can quote text with this symbol: >.
+    - Adding elements in lists: To add elements in a list while preserving the continuity of the list, indent the element four spaces or one tab
+    - Code Blocks: To create code blocks, indent each line of the block by at least four spaces or one tab
+    - Horizontal Rules: To create a horizontal rule, use three or more asterisks (***), dashes (---), or underscores (___) on a line by themselves
+    - Links: To create a link, enclose the link text in brackets (e.g., [Duck Duck Go]) and then follow it immediately with the URL in parentheses
+    - Adding titles to a link: To add a title to a link, enclose it in quotation marks after the URL.
 
 ## Things I want to know more about
 
