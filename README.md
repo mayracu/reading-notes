@@ -10,6 +10,10 @@ In my first class, we discussed what it means to have a growth mindset, which in
 
 I've been thinking about my current goal of becoming a software developer. I know I will face challenges and obstacles, and even if I sometimes I feel tempted to throw in the towel, I have to ***remember to keep a growth mindset***, especially in moments of frustration. 
 
+As Maya Angelous said:
+
+> “You may encounter many defeats, but you must not be defeated. In fact, it may be necessary to encounter the defeats, so you can know who you are, what you can rise from, how you can still come out of it.”
+
 ### Three reminders to stay in a growth mindset
 
 1. Every day remember your goal and do something that moves you forward in that direction 🧗‍♀️
@@ -22,10 +26,7 @@ Perhaps you can make a cup of coffee for yourself! There's no limit to the power
 
 When you look back at your code, chances are you will see things in a different way 🙂
 
-I was looking for some quotes to help me get motivated in moments of frustration and I found this one which I really like: 
 
-> “You may encounter many defeats, but you must not be defeated. In fact, it may be necessary to encounter the defeats, so you can know who you are, what you can rise from, how you can still come out of it.”
-– Maya Angelou
 
 
 
