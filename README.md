@@ -20,7 +20,7 @@ Maybe you can make a cup of coffee for yourself! there's no limites to the power
 
 When you come back to look at your code, chances are you will look things in a different way :slightly_smiling_face:
 
-2. Every day remember your goal and do something that moves you forward to that direction.
+2. Every day remember your goal and do something that moves you forward to that direction :climbing_woman:
 3. No reward comes without effort. Keep up the good work and enthusiasm! 
 
 I was looking for some quotes to help me get motivated in moments of frustration and I found this one which I really like!: 
