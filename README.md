@@ -18,5 +18,5 @@ Three reminders to stay in a growth mindset:
 
 I was looking for some quotes to help me get inspiration in moments of frustration. I like this one: 
 
-“Of course everyone has those moments of frustration now and then, when you say, ‘I wish I could play well already―or just stop.’ But it’s too much trouble to stop just for a moment of frustration. It is when you keep going that you make the most progress.” – Hilary Hahn
+> “Of course everyone has those moments of frustration now and then, when you say, ‘I wish I could play well already―or just stop.’ But it’s too much trouble to stop just for a moment of frustration. It is when you keep going that you make the most progress.” – Hilary Hahn
 
