@@ -33,7 +33,7 @@ In this first class I was introduced to Markdown, which is a markup language pro
 - Quotes: You can quote text with this symbol ___
 - Adding elements in lists: To add elements in a list while preserving the continuity of the list, indent the element ___ spaces or ___ tab
 - Code Blocks: To create code blocks, indent each line of the block by at least \___ spaces or \___ tab
-- Horizontal Rules: To create a horizontal rule, use ___ or more asterisks (\*\**), dashes (\---), or underscores (\__\_) on a line by themselves
+- Horizontal Rules: To create a horizontal rule, use _\_\_\_\ or more asterisks (*\*\*\) dashes (-\-\-\), or underscores (_\_\_\) on a line by themselves
 - Links: To create a link, enclose the link text in brackets and then follow it immediately with the ___ in parentheses
 - Adding titles to a link: To add a title to a link, enclose it in ___ marks after the URL
 
