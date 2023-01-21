@@ -12,7 +12,14 @@ I though about my current goal of becoming a software developer. I know I will f
 
 Three reminders to stay in a growth mindset: 
 
-1. When hitting an obstacle like when you get stuck trying to solve a problem in your code, remember to breathe and step away for a short period of time. That brief moment will help you relax and it will help reduce frustration. When you come back to look at your code, chances are you will look things in a different way. 
+1. When hitting an obstacle like when you get stuck trying to solve a problem in your code, remember to breathe and step away for a short period of time. That brief moment will help you relax and it will help reduce frustration. 
+
+Maybe you can make a cup of coffee for yourself! there's no limites to the powers of this java to lift an spirit!
+
+![This is an image](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.explicit.bing.net%2Fth%3Fid%3DOIP.c8nKn8XEvMijgCQPw_DhGgHaE7%26pid%3DApi&f=1&ipt=7c3971a3ae1754124e1c8fe5910b48abf93e126e4632364d01eedd0ef4e714e3&ipo=images)
+
+When you come back to look at your code, chances are you will look things in a different way. 
+
 2. Every day remember your goal and do something that moves you forward to that direction.
 3. No reward comes without effort. Keep up the good work and enthusiasm! 
 
@@ -21,6 +28,6 @@ I was looking for some quotes to help me get motivated in moments of frustration
 > “Of course everyone has those moments of frustration now and then, when you say, ‘I wish I could play well already―or just stop.’ But it’s too much trouble to stop just for a moment of frustration. It is when you keep going that you make the most progress.”
 – Hilary Hahn
 
-![This is an image](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.explicit.bing.net%2Fth%3Fid%3DOIP.c8nKn8XEvMijgCQPw_DhGgHaE7%26pid%3DApi&f=1&ipt=7c3971a3ae1754124e1c8fe5910b48abf93e126e4632364d01eedd0ef4e714e3&ipo=images)
+
 
 
