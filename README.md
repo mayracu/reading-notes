@@ -27,5 +27,5 @@ Perhaps you can make a cup of coffee for yourself! There's no limit to the power
 When you look back at your code, chances are you will see things in a different way 🙂
 
 
-[^note]: https://www.goodreads.com/quotes/tag/perseverance
+[^note]: [https://www.goodreads.com/quotes/tag/perseverance](https://www.goodreads.com/quotes/tag/perseverance)
 
