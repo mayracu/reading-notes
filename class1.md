@@ -32,7 +32,7 @@ In this first class I was introduced to Markdown, which is a markup language pro
 - URL and email addresses: To turn a URL or email address into a link, enclose it in ___
 - Quotes: You can quote text with this symbol ___
 - Adding elements in lists: To add elements in a list while preserving the continuity of the list, indent the element ___ spaces or ___ tab
-- Code Blocks: To create code blocks, indent each line of the block by at least ___ spaces or ___ tab
+- Code Blocks: To create code blocks, indent each line of the block by at least \___ spaces or \___ tab
 - Horizontal Rules: To create a horizontal rule, use ___ or more asterisks (***), dashes (---), or underscores (___) on a line by themselves
 - Links: To create a link, enclose the link text in brackets and then follow it immediately with the ___ in parentheses
 - Adding titles to a link: To add a title to a link, enclose it in ___ marks after the URL
