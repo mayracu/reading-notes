@@ -24,7 +24,7 @@ As Maya Angelous[^note] said:
 
 ## Learning Markdown
 
-In this first class I was introduced to Markdown, which is a markup language process for creating formmating text in documents. Markdown can make a text look structured and styled.
+In this first class I was introduced to Markdown, which is a markup language for creating formmating text in documents. Markdown can make a text look structured and styled.
 
 ### Fill-in-the-blank key concepts
 
