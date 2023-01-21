@@ -31,7 +31,7 @@ In this first class I was introduced to Markdown, which is a markup language pro
 - Headings: To create a heading, add this sign ___ in front of a word or phrase 
 - URL and email addresses: To turn a URL or email address into a link, enclose it in ___
 - Quotes: You can quote text with this symbol ___
-- Adding elements in lists: To add elements in a list while preserving the continuity of the list, indent the element ___\ spaces or ___\ tab
+- Adding elements in lists: To add elements in a list while preserving the continuity of the list, indent the element \___ spaces or \___ tab
 - Code Blocks: To create code blocks, indent each line of the block by at least \___ spaces or \___ tab
 - Horizontal Rules: To create a horizontal rule, use ___ or more asterisks, dashes, or underscores on a line
 - Links: To create a link, enclose the link text in brackets and then follow it immediately with the ___ in parentheses
