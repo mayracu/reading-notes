@@ -23,7 +23,7 @@ When you come back to look at your code, chances are you will look things in a d
 2. Every day remember your goal and do something that moves you forward to that direction 🧗‍♀️
 3. No reward comes without effort. Keep up the good work and enthusiasm! 
 
-I was looking for some quotes to help me get motivated in moments of frustration and I found this one which I really like!: 
+I was looking for some quotes to help me get motivated in moments of frustration and I found this one which I really like: 
 
 > “Of course everyone has those moments of frustration now and then, when you say, ‘I wish I could play well already―or just stop.’ But it’s too much trouble to stop just for a moment of frustration. It is when you keep going that you make the most progress.”
 – Hilary Hahn
