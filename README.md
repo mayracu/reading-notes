@@ -29,3 +29,11 @@ As Maya Angelous[^note] said:
 
 [^note]: [https://www.goodreads.com/quotes/tag/perseverance](https://www.goodreads.com/quotes/tag/perseverance)
 
+
+#### Table of Contents
+
+- [Underline](#underline)
+- [Indent](#indent)
+- [Center](#center)
+- [Color](#color)
+
