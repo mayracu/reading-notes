@@ -1,9 +1,4 @@
-
-# My Reading Journal
-
-Hi, my name is Mayra! Welcome to my page. 
-
-On this site I will post some notes and thoughts about my classes and learning path to become a software developer. To access my github portfolio you can click [here.](https://github.com/mayracu)
+# Class 1
 
 ## Keep a Growth Mindset
 
@@ -26,6 +21,25 @@ As Maya Angelous[^note] said:
     ![This is an image](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.explicit.bing.net%2Fth%3Fid%3DOIP.c8nKn8XEvMijgCQPw_DhGgHaE7%26pid%3DApi&f=1&ipt=7c3971a3ae1754124e1c8fe5910b48abf93e126e4632364d01eedd0ef4e714e3&ipo=images)
 
     When you look back at your code, chances are you will see things in a different way 🙂
+
+## Learning Markdown
+
+In this first class I was introduced to Markdown, which is a markup language process for creating formmating text in documents. Markdown can make a text look structured and styled.
+
+### Fill-in-the-blank key concepts
+
+
+
+
+
+
+## Things I want to know more about
+
+- html
+
+
+
+
 
 
 [^note]: [https://www.goodreads.com/quotes/tag/perseverance](https://www.goodreads.com/quotes/tag/perseverance)
