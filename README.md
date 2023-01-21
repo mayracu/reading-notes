@@ -21,5 +21,6 @@ I was looking for some quotes to help me get motivated in moments of frustration
 > “Of course everyone has those moments of frustration now and then, when you say, ‘I wish I could play well already―or just stop.’ But it’s too much trouble to stop just for a moment of frustration. It is when you keep going that you make the most progress.”
 – Hilary Hahn
 
-The background color should be `#ffffff` for light mode and `#0d1117` for dark mode.
+![This is an image](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.explicit.bing.net%2Fth%3Fid%3DOIP.c8nKn8XEvMijgCQPw_DhGgHaE7%26pid%3DApi&f=1&ipt=7c3971a3ae1754124e1c8fe5910b48abf93e126e4632364d01eedd0ef4e714e3&ipo=images)
+
 
