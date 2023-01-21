@@ -28,7 +28,7 @@ In this first class I was introduced to Markdown, which is a markup language pro
 
 ### Fill-in-the-blank key concepts
 
-- Headings: To create a heading, add this sign --- in front of a word or phrase 
+- Headings: To create a heading, add this sign ___ in front of a word or phrase 
 - URL and email addresses: To turn a URL or email address into a link, enclose it in ---
 - Quotes: You can quote text with this symbol ---
 - Adding elements in lists: To add elements in a list while preserving the continuity of the list, indent the element --- spaces or --- tab
