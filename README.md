@@ -4,7 +4,7 @@ Hi, my name is Mayra! Welcome to my page.
 
 On this site I will post some notes and thoughts about my classes and learning path to become a software developer. To access my github portfolio you can click [here.](https://github.com/mayracu)
 
-## Growth mindset
+## Keeping a Growth Mindset
 
 In my first class, we discussed what it means to have a growth mindset, which involves removing from our minds the idea that our talents and abilities are fixed and determined; and instead agreeing with the affirmation that our potential and abilities can always grow and develop to reach their full potential, as long as we work hard and persevere. 
 
