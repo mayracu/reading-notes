@@ -1,6 +1,6 @@
 #### Table of Contents
 
-- [Class 1](#class 1)
+- [Class 1](https://mayracu.github.io/reading-notes)
 - [Class 2](#class 2)
 - [Class 3](#class 3)
 - [Class 4](#class 4)
