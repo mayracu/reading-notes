@@ -1,7 +1,7 @@
 #### Table of Contents
 
 - [Class 1](https://mayracu.github.io/reading-notes)
-- <a href="[https://mayracu.github.io/reading-notes]" target="_blank">Class 1</a> 
+- <a href="https://mayracu.github.io/reading-notes" target="_blank">Class 1</a> 
 - [Class 2](#class 2)
 - [Class 3](#class 3)
 - [Class 4](#class 4)
