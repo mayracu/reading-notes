@@ -26,7 +26,7 @@ A command line, or terminal, is a text based interface to the system. It will ty
 - Command line arguments are separated by spaces ( -l /home/user). 
 - The first command line argument ( -l ) is also referred to as an option. Options modify the behaviour of the command. They are usually listed before other arguments and typically start with a dash ( - ).
 
-## Absolute and relative paths
+### Absolute and relative paths
 
 - *A relative path*: A file or directory location relative to where we currently are in the file system.
 - *Absolute path*: A file or directory location in relation to the root of the file system. They always begin with a forward slash ( / )
@@ -34,8 +34,10 @@ A command line, or terminal, is a text based interface to the system. It will ty
 ### Basic commands
 
 - pwd
+
     Print Working Directory - ie. Where are we currently.
 - ls
+
     List the contents of a directory.
 - cd
     Change Directories - ie. move to another directory.
