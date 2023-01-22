@@ -20,13 +20,16 @@ Text editors don't have hidden formatting and can include features that help dev
 
 A command line, or terminal, is a text based interface to the system. It will typically present you with a prompt after which you will be issuing commands.
 
-`pc@user: l -1 /home/paul`
+`pc@user: l -1 /home/user`
 
 - Typically a command is always the first thing you type after the prompt.
-- Command line arguments are separated by spaces ( -l /home/paul). 
+- Command line arguments are separated by spaces ( -l /home/user). 
 - The first command line argument ( -l ) is also referred to as an option. Options modify the behaviour of the command. They are usually listed before other arguments and typically start with a dash ( - ).
-- A relative path A file or directory location relative to where we currently are in the file system.
-- Absolute path A file or directory location in relation to the root of the file system.
+
+## Absolute and relative paths
+
+- *A relative path*: A file or directory location relative to where we currently are in the file system.
+- *Absolute path*: A file or directory location in relation to the root of the file system. They always begin with a forward slash ( / )
 
 ### Basic commands
 
@@ -36,8 +39,10 @@ A command line, or terminal, is a text based interface to the system. It will ty
     List the contents of a directory.
 - cd
     Change Directories - ie. move to another directory.
-- ~ (tilde) - This is a shortcut for your home directory. eg, if your home directory is /home/ryan then you could refer to the directory Documents with the path /home/ryan/Documents or ~/Documents
-- . (dot) - This is a reference to your current directory. eg in the example above we referred to Documents on line 4 with a relative path. It could also be written as ./Documents (Normally this extra bit is not required but in later sections we will see where it comes in handy).
-- .. (dotdot)- This is a reference to the parent directory. You can use this several times in a path to keep going up the hierarchy. eg if you were in the path /home/ryan you could run the command ls ../../ and this would do a listing of the root directory.
-    
+- ~ (tilde)
+    This is a shortcut for your home directory. eg, if your home directory is /home/user then you could go to the directory Documents with the path /home/user/Documents or ~/Documents
+- . (dot)
+    This is a reference to your current directory. 
+- .. (dotdot)
+    This is a reference to the parent directory. It is used to go up the hierarchy in a path. 
 
