@@ -6,8 +6,8 @@ On this site I will post some notes and thoughts about my classes and learning p
 
 ## Code 102: Reading notes
 
-- <a href="https://mayracu.github.io/reading-notes/class1" target="_blank">Class 1: Growth Mindset and Learning Markdown</a> 
-- [Class 2](#class 2)
+- <a href="https://mayracu.github.io/reading-notes/class1" target="_blank">Class 1: Growth Mindset and Learning Markdown</a>
+- <a href="https://mayracu.github.io/reading-notes/class2" target="_blank">Class 2: The Coder’s Computer</a> 
 - [Class 3](#class 3)
 - [Class 4](#class 4)
 - [Class 5](#class 5)
