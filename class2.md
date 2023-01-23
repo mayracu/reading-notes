@@ -44,7 +44,7 @@ A command line, or terminal, is a text based interface to the system. It will ty
 
 ## Things I want to know more about
 
-I'd like to get hands on my computer's command line.
+Moving around in my computer system using the command line.
 
 *References:*
 
