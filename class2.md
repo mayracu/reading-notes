@@ -45,5 +45,7 @@ A command line, or terminal, is a text based interface to the system. It will ty
 *References*
 
 [https://ryanstutorials.net/linuxtutorial/commandline.php](https://ryanstutorials.net/linuxtutorial/commandline.php)
+
 [https://ryanstutorials.net/linuxtutorial/navigation.php](https://ryanstutorials.net/linuxtutorial/navigation.php)
+
 [https://ryanstutorials.net/linuxtutorial/aboutfiles.php](https://ryanstutorials.net/linuxtutorial/aboutfiles.php)
