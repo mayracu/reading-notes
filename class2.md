@@ -42,7 +42,7 @@ A command line, or terminal, is a text based interface to the system. It will ty
 - file: This is a command to obtain information about what type of file a file or directory is.
 - ls -a: List the contents of a directory, including hidden files. 
 
-*References*
+*References:*
 
 [https://ryanstutorials.net/linuxtutorial/commandline.php](https://ryanstutorials.net/linuxtutorial/commandline.php)
 
