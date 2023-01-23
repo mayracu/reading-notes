@@ -1,7 +1,7 @@
 
 # The Coder's Computer
 
-## What is a tex editor?
+## What is a text editor?
 
 A text editor is one of the most important tools for a software developer. It's a tool very useful to write code and build a website.  
 
