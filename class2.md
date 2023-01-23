@@ -16,7 +16,7 @@ Text editors don't have hidden formatting and can include features that help dev
 - *Variety of themes*: this feature allows developers to change the background of their text editor, the color of text, etc.
 - *Extensions*: this feature allows developers to add functionality to their code.
 
-## The Command Line
+## The Command Line[^note]
 
 A command line, or terminal, is a text based interface to the system. It will typically present you with a prompt after which you will be issuing commands.
 
@@ -26,7 +26,7 @@ A command line, or terminal, is a text based interface to the system. It will ty
 - Command line arguments are separated by spaces ( -l /home/user). 
 - The first command line argument ( -l ) is also referred to as an option. Options modify the behaviour of the command. They are usually listed before other arguments and typically start with a dash ( - ).
 
-### Absolute and relative paths
+### Absolute and relative paths[^note]
 
 - *A relative path*: A file or directory location relative to where we currently are in the file system.
 - *Absolute path*: A file or directory location in relation to the root of the file system. They always begin with a forward slash ( / )
@@ -40,3 +40,5 @@ A command line, or terminal, is a text based interface to the system. It will ty
 - . (dot): This is a reference to your current directory. 
 - .. (dotdot): This is a reference to the parent directory. It is used to go up the hierarchy in a path. 
 
+[^note]: https://ryanstutorials.net/linuxtutorial/commandline.php 
+[^note]: https://ryanstutorials.net/linuxtutorial/navigation.php
