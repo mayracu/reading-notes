@@ -31,7 +31,7 @@ A command line, or terminal, is a text based interface to the system. It will ty
 - *A relative path*: A file or directory location relative to where we currently are in the file system.
 - *Absolute path*: A file or directory location in relation to the root of the file system. They always begin with a forward slash ( / )
 
-### Basic commands
+### Basic commands[^2]
 
 - pwd: Print Working Directory.
 - ls: List the contents of a directory.
@@ -39,6 +39,8 @@ A command line, or terminal, is a text based interface to the system. It will ty
 - ~ (tilde): This is a shortcut for your home directory. eg, if your home directory is /home/user then you could go to the directory Documents with the path /home/user/Documents or ~/Documents
 - . (dot): This is a reference to your current directory. 
 - .. (dotdot): This is a reference to the parent directory. It is used to go up the hierarchy in a path. 
+
+*References*
 
 [^1]: https://ryanstutorials.net/linuxtutorial/commandline.php 
 [^2]: https://ryanstutorials.net/linuxtutorial/navigation.php 
