@@ -31,7 +31,7 @@ A command line, or terminal, is a text based interface to the system. It will ty
 - *A relative path*: A file or directory location relative to where we currently are in the file system.
 - *Absolute path*: A file or directory location in relation to the root of the file system. They always begin with a forward slash ( / )
 
-### Basic commands[^2]/[^3]
+### Basic commands[^2[^3]
 
 - pwd: Print Working Directory.
 - ls: List the contents of a directory.
