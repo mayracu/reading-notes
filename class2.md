@@ -16,7 +16,7 @@ Text editors don't have hidden formatting and can include features that help dev
 - *Variety of themes*: this feature allows developers to change the background of their text editor, the color of text, etc.
 - *Extensions*: this feature allows developers to add functionality to their code.
 
-## The Command Line[^1]
+## The Command Line
 
 A command line, or terminal, is a text based interface to the system. It will typically present you with a prompt after which you will be issuing commands.
 
@@ -26,12 +26,12 @@ A command line, or terminal, is a text based interface to the system. It will ty
 - Command line arguments are separated by spaces ( -l /home/user). 
 - The first command line argument ( -l ) is also referred to as an option. Options modify the behaviour of the command. They are usually listed before other arguments and typically start with a dash ( - ).
 
-### Absolute and relative paths[^2]
+### Absolute and relative paths
 
 - *A relative path*: A file or directory location relative to where we currently are in the file system.
 - *Absolute path*: A file or directory location in relation to the root of the file system. They always begin with a forward slash ( / )
 
-### Basic commands[^2[^3]
+### Basic commands
 
 - pwd: Print Working Directory.
 - ls: List the contents of a directory.
@@ -44,6 +44,6 @@ A command line, or terminal, is a text based interface to the system. It will ty
 
 *References*
 
-[^1]: https://ryanstutorials.net/linuxtutorial/commandline.php 
-[^2]: https://ryanstutorials.net/linuxtutorial/navigation.php
-[^3]: https://ryanstutorials.net/linuxtutorial/aboutfiles.php
+[https://ryanstutorials.net/linuxtutorial/commandline.php](https://ryanstutorials.net/linuxtutorial/commandline.php)
+[https://ryanstutorials.net/linuxtutorial/navigation.php](https://ryanstutorials.net/linuxtutorial/navigation.php)
+[https://ryanstutorials.net/linuxtutorial/aboutfiles.php](https://ryanstutorials.net/linuxtutorial/aboutfiles.php)
