@@ -40,7 +40,11 @@ A command line, or terminal, is a text based interface to the system. It will ty
 - . (dot): This is a reference to your current directory. 
 - .. (dotdot): This is a reference to the parent directory. It is used to go up the hierarchy in a path.
 - file: This is a command to obtain information about what type of file a file or directory is.
-- ls -a: List the contents of a directory, including hidden files. 
+- ls -a: List the contents of a directory, including hidden files.
+
+## Things I want to know more about
+
+I'd like to get hands on my computer's command line.
 
 *References:*
 
