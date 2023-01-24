@@ -36,8 +36,8 @@ It's recommended to check the status using the `git status` command.
 ## Things I want to know more about
 
 - Coding with VS Studio
-- How to use features in a text editor.
+- How to use features in a text editor
 
 *References:*
 
-[https://blog.udemy.com/git-tutorial-a-comprehensive-guide/#6_2](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/#6_2)
+[https://blog.udemy.com/git-tutorial-a-comprehensive-guide/](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
