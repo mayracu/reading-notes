@@ -6,7 +6,7 @@ Today I synced my github Reading Notes repo to my local computer. Now I can make
 
 ACP stands for Add, Commit and Push. This means that every time I make a change in my text editor, I'll need to save the changes, go to my terminal, **add** the changes to my local repository, **commit** the changes and **push** them.
 
-**Important:** After syncing my remote repository with my computer, I shouldn't make any more changes on GitHub. Any change I make to my repository it has to be made using my local master branch.
+**Important:** After syncing my remote repository with my computer, I shouldn't make any more changes on GitHub. Any change I make to my repository it has to be made using my local main branch.
 
 ## Why is Git important?
 
@@ -30,7 +30,7 @@ It's recommended to check the status using the `git status` command.
     git status
     git commit -m "made change a,b,c"
     git status
-    git push origin master
+    git push origin main
     git status
 
 ## Things I want to know more about
