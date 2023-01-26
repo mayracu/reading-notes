@@ -18,7 +18,7 @@ CSS stands for Cascading Style Sheets. It is useful for text styling, layout cre
 
 ## CSS Color property
 
-To set text color for diferent elements:
+To set text color for diferent elements. Example of syntax:
 
     body {
       color: blue;
