@@ -20,9 +20,9 @@ CSS stands for Cascading Style Sheets. It is useful for text styling, layout cre
 
 To set text color for diferent elements:
 
-`body {
-  color: blue;
-}`
+    body {
+      color: blue;
+    }
 
 The values for the color property can be given on RGB, HEX, RGBA, HSL, and HSLA.
 
