@@ -18,17 +18,17 @@ On this site I will post some notes and thoughts about my classes and learning p
 ## Code 201: Reading notes
 
 - <a href="https://mayracu.github.io/reading-notes/201class1" target="_blank">Class 1</a>
-- [Class 2](#class 2)
-- [Class 3](#class 3)
-- [Class 4](#class 4)
-- [Class 5](#class 5)
-- [Class 6](#class 6)
-- [Class 7](#class 7)
-- [Class 8](#class 8)
-- [Class 9](#class 9)
-- [Class 10](#class 10)
-- [Class 11](#class 11)
-- [Class 12](#class 12)
-- [Class 13](#class 13)
-- [Class 14](#class 14)
-- [Class 15](#class 15)
+- <a href="https://mayracu.github.io/reading-notes/201class2" target="_blank">Class 2</a>
+- <a href="https://mayracu.github.io/reading-notes/201class3" target="_blank">Class 3</a>
+- <a href="https://mayracu.github.io/reading-notes/201class4" target="_blank">Class 4</a>
+- <a href="https://mayracu.github.io/reading-notes/201class5" target="_blank">Class 5</a>
+- <a href="https://mayracu.github.io/reading-notes/201class6" target="_blank">Class 6</a>
+- <a href="https://mayracu.github.io/reading-notes/201class7" target="_blank">Class 7</a>
+- <a href="https://mayracu.github.io/reading-notes/201class8" target="_blank">Class 8</a>
+- <a href="https://mayracu.github.io/reading-notes/201class9" target="_blank">Class 9</a>
+- <a href="https://mayracu.github.io/reading-notes/201class10" target="_blank">Class 10</a>
+- <a href="https://mayracu.github.io/reading-notes/201class11" target="_blank">Class 11</a>
+- <a href="https://mayracu.github.io/reading-notes/201class12" target="_blank">Class 12</a>
+- <a href="https://mayracu.github.io/reading-notes/201class13" target="_blank">Class 13</a>
+- <a href="https://mayracu.github.io/reading-notes/201class14" target="_blank">Class 14</a>
+- <a href="https://mayracu.github.io/reading-notes/201class15" target="_blank">Class 15</a>
