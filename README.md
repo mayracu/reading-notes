@@ -6,7 +6,7 @@ On this site I will post some notes and thoughts about my classes and learning p
 
 ## Code 102: Reading notes
 
-## <a href="https://mayracu.github.io/reading-notes/code102tableofcontents/" target="_blank">Code 102: Reading Notes</a>
+## <a href="https://mayracu.github.io/reading-notes/code102/code102tableofcontents/" target="_blank">Code 102: Reading Notes</a>
 
 - <a href="https://mayracu.github.io/reading-notes/code102/class1" target="_blank">Class 1: Growth Mindset and Learning Markdown</a>
 - <a href="https://mayracu.github.io/reading-notes/class2" target="_blank">Class 2: The Coder’s Computer</a>
