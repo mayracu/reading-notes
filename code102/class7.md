@@ -25,6 +25,10 @@ A JavaScript function is a block of code designed to perform a particular task. 
 - Conditional Operators: if, else if
 - Type Operators: typeof
 
+## Things I want to know more about
+
+- JavaScript functions and loops
+
 *References*
 
 [https://developer.mozilla.org/en-US/docs/Glossary/Control_flow](https://developer.mozilla.org/en-US/docs/Glossary/Control_flow)

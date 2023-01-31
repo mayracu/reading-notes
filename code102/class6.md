@@ -11,6 +11,10 @@
 
 - Internal JavaScript: utilizing a script tag inside an HTML file
 
+## Things I want to know more about
+
+- JavaScript functions
+
 *References*
 
 [https://code-maven.com/javascript-input-with-prompt-and-confirm](https://code-maven.com/javascript-input-with-prompt-and-confirm)
