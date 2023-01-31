@@ -21,7 +21,7 @@ A JavaScript function is a block of code designed to perform a particular task. 
 - Arithmetic Operators
 - Assignment Operators
 - Comparison Operators: loosely equal (==), strictly equal (===), not equal (!=), <, >, etc.
-- Logical Operators: &&, ||, !
+- Logical Operators: &&, \|\|, !
 - Conditional Operators: if, else if
 - Type Operators: typeof
 
