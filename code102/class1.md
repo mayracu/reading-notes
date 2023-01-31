@@ -41,9 +41,4 @@ In this first class I was introduced to Markdown, which is a markup language for
 
 - HTML
 
-
-
-
-
-
 [^note]: [https://www.goodreads.com/quotes/tag/perseverance](https://www.goodreads.com/quotes/tag/perseverance)
