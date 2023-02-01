@@ -13,10 +13,6 @@ A comparison operator compares its operands (which can be numerical, string, log
 ## Arithmetic Operators
 
 - Standard arithmetic operators: addition (+), subtraction (-), multiplication (*), and division (/).
-
-    6 / 2; // 3
-    8 / 4 === 4.0 / 2.0; // this is true
-
 - There are other operators, i.e. remainder, increment, etc.
 
 ## For and While Statements
@@ -24,15 +20,15 @@ A comparison operator compares its operands (which can be numerical, string, log
 ### For statement
 
 A for loop repeats until a specified condition evaluates to false.
+    
     //For loop structure
-
     for (initialization; condition; expression) {
         //code block to be executed
     }
     
     //Example:
     for (let i = 0; i < 10; i++) {
-        console.log(i);
+    console.log(i);
     }
 
 ### While statement
