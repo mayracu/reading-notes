@@ -9,3 +9,9 @@ On this site I will post some notes and thoughts about my classes and learning p
 ## <a href="https://mayracu.github.io/reading-notes/code201/tableofcontents" target="_blank">Code 201: Foundations of Software Development</a>
 
 ## [Code 102: Intro to Software Development](code102/tableofcontents.md)
+
+## [Code 201: Foundations of Software Development](code201/tableofcontents.md)
+
+## [Code 301: Intermediate Software Development](code301/tableofcontents.md)
+
+## [Code 401 - Advanced Software Development](code401/tableofcontents.md)
