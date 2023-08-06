@@ -1,8 +1,8 @@
 # *My Reading Journal*
 
-Hi, my name is Mayra! Welcome to my page! :smiley:
+Hi, my name is Mayra! Welcome to my page!
 
-On this site I will post some notes and thoughts about my classes and learning path to become a software developer. To access my github portfolio you can click [**here.**](https://github.com/mayracu)
+On this site I will post some notes and thoughts about my classes and learning path to become a software developer. To access my github portfolio you can click [here.](https://github.com/mayracu)
 
 - ## [Code 102: Intro to Software Development](code102/tableofcontents.md)
 
