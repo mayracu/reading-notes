@@ -33,7 +33,7 @@ Order in which files are parsed in the broswer:
 
 ## How to find images to add to a website
 
-[Google Images](https://www.google.com/imghp?gws_rd=ssl)is a useful tool to choose images. It's recommendable to review the licensing requirements and choose images with Creative Commons licenses.
+[Google Images](https://www.google.com/imghp?gws_rd=ssl) is a useful tool to choose images. It's recommendable to review the licensing requirements and choose images with Creative Commons licenses.
 
 ## How to create a String or a Number in JavaScript?
 
@@ -117,7 +117,11 @@ Browser APIs and Third party APIs.
 
 ### How can you add JavaScript to an HTML document?
 
-JavaScript can be added to an HTML document using an external file or using JavaScript internally in the HTML file. 
+JavaScript can be added to an HTML document using an external file or using JavaScript internally in the HTML file.
+
+## Things I want to know more about
+
+I'd like to know more about APIs and Third Party APIs.
 
 *References:*
 
