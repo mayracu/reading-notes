@@ -1,4 +1,4 @@
-# HTML fundamentals and formatting
+# Class 2: HTML, CSS and JavaScript
 
 ## Why is it important to use semantic elements in our HTML?
 
