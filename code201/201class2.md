@@ -8,9 +8,10 @@ Semantic elements have semantic values and get extra benefits. Semantic elements
 
 There are six levels of headings: h1, h2, h3, h4, h5, and h6.
 
-## What are some uses for the <sup> and <sub> elements?
+## What are some uses for the `<sup>` and `<sub>` elements?
 
 superscript and subscript elements are useful when marking up items like dates, chemical formulae, mathematical equations, etc. so they have the correct meaning.
+
 ``
   <p>
     Water's chemical formula is
@@ -54,8 +55,8 @@ Strings are enclosed in single or double quote marks.
 
 ### List 4 types of JavaScript operators
 
-- Addition: `4 + 4`
-- Substraction: ` 8 - 4`
+- Addition: `4+4`
+- Substraction: `8-4`
 - Division: `16/4`
 - Multiplication: `8*8`
 
@@ -78,7 +79,7 @@ To identify if a certain plant need to be watered or not  depending on the time 
 #### Difference between the logical operator && and ||?
 
 - && — AND; chain together two or more expressions. All the expressions have to individually evaluate to true for the whole expression to return true.
-- || — OR; chain together two or more expressions. At least one expression have to individually evaluate to true for the whole expression to return true.
+- \|\| — OR; chain together two or more expressions. At least one expression have to individually evaluate to true for the whole expression to return true.
 
 ## Things I want to know more about
 
