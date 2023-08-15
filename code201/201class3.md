@@ -40,30 +40,29 @@ An array can store various data types: strings, numbers, objects, and even other
 ### Is the people array a valid JavaScript array? If so, how can I access the values stored? If not, why?
 
 ``
-  const people = [['pete', 32, 'librarian', null], ['Smith', 40, 'accountant', 'fishing:hiking:rock_climbing'], ['bill', null, 'artist', null]];
+    const people = [['pete', 32, 'librarian', null], ['Smith', 40, 'accountant', 'fishing:hiking:rock_climbing'], ['bill', null, 'artist', null]];
 ``
 The people array a is a valid JavaScript array that stores three arrays. The items can be accessed using bracket notation and supplying the item's index.
 
 ### List five shorthand operators for assignment in javascript and describe what they do
 
 ``
-  Addition assignment: x += f() --> x = x + f()
-  Subtraction assignment: x -= f() --> x = x - f()
-  Multiplication assignment: x *= f() --> x = x * f()
-  Division assignment: x /= f() --> x = x / f()
-  Remainder assignment: x %= f() --> x = x % f()
-  Exponentiation assignment: x **= f() --> x = x ** f()
+    Addition assignment: x += f() --> x = x + f()Substraction assignment: x -= f() --> x = x - f()
+    Multiplication assignment: x *= f() --> x = x * f()
+    Division assignment: x /= f() --> x = x / f()
+    Remainder assignment: x %= f() --> x = x % f()
+    Exponentiation assignment: x **= f() --> x = x ** f()
 ``
 
 ### Read the code below and evaluate the last expression and explain what the result would be and why
 
 ``
- let a = 10;
- let b = 'dog';
- let c = false;
+    let a = 10;
+    let b = 'dog';
+    let c = false;
 
- // evaluate this
- (a + c) + b;
+    // evaluate this
+    (a + c) + b;
 ``
 The result is 10dog. The values in between the parenthesis are summed up first and the value of the variable b is added last. Since c is false, this means its value is 0.
 
@@ -74,6 +73,10 @@ When there is a speed limit set for a street, if a vehicles goes up the speed li
 ### Give an example of when a loop is useful in JavaScript
 
 It can be useful to use a loop in JavaScript when we want to provide a welcoming message to everyone in a chat session.
+
+## Things I want to know more about
+
+Creating functions with JavaScript using loops and conditionals.
 
 *References:*
 
