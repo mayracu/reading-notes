@@ -47,12 +47,11 @@ The people array a is a valid JavaScript array that stores three arrays. The ite
 
 ### List five shorthand operators for assignment in javascript and describe what they do
 
-Addition assignment: x += f() --> x = x + f()Substraction assignment: x -= f() --> x = x - f()
-Multiplication assignment: x *= f() --> x = x * f()
-Division assignment: x /= f() --> x = x / f()
-Remainder assignment: x %= f() --> x = x % f()
-Exponentiation assignment: x **= f() --> x = x ** f()
-
+* Addition assignment: x += f() --> x = x + f()- 
+* Substraction assignment: x -= f() --> x = x - f()
+* Multiplication assignment: x *= f() --> x = x * f()
+* Division assignment: x /= f() --> x = x / f()
+* Remainder assignment: x %= f() --> x = x % f()
 
 ### Read the code below and evaluate the last expression and explain what the result would be and why
 
@@ -60,8 +59,10 @@ Exponentiation assignment: x **= f() --> x = x ** f()
     let a = 10;
     let b = 'dog';
     let c = false;
+``
 
-    // evaluate this
+``
+    //evaluate this
     (a + c) + b;
 ``
 
