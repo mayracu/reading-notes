@@ -42,17 +42,17 @@ An array can store various data types: strings, numbers, objects, and even other
 ``
     const people = [['pete', 32, 'librarian', null], ['Smith', 40, 'accountant', 'fishing:hiking:rock_climbing'], ['bill', null, 'artist', null]];
 ``
+
 The people array a is a valid JavaScript array that stores three arrays. The items can be accessed using bracket notation and supplying the item's index.
 
 ### List five shorthand operators for assignment in javascript and describe what they do
 
-``
-    Addition assignment: x += f() --> x = x + f()Substraction assignment: x -= f() --> x = x - f()
-    Multiplication assignment: x *= f() --> x = x * f()
-    Division assignment: x /= f() --> x = x / f()
-    Remainder assignment: x %= f() --> x = x % f()
-    Exponentiation assignment: x **= f() --> x = x ** f()
-``
+Addition assignment: x += f() --> x = x + f()Substraction assignment: x -= f() --> x = x - f()
+Multiplication assignment: x *= f() --> x = x * f()
+Division assignment: x /= f() --> x = x / f()
+Remainder assignment: x %= f() --> x = x % f()
+Exponentiation assignment: x **= f() --> x = x ** f()
+
 
 ### Read the code below and evaluate the last expression and explain what the result would be and why
 
@@ -64,6 +64,7 @@ The people array a is a valid JavaScript array that stores three arrays. The ite
     // evaluate this
     (a + c) + b;
 ``
+
 The result is 10dog. The values in between the parenthesis are summed up first and the value of the variable b is added last. Since c is false, this means its value is 0.
 
 ### Describe a real world example of when a conditional statement should be used in a JavaScript program
