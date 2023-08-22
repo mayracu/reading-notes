@@ -38,7 +38,7 @@ Normal flow is the default layout for CSS elements. We can change how elements b
 
 ### What is a key difference between fixed positioning and absolute positioning?
 
-- whereas absolute positioning fixes an element in place relative to its nearest positioned ancestor (the initial containing block if there isn't one), fixed positioning usually fixes an element in place relative to the visible portion of the viewport.
+- Absolute positioning fixes an element in place relative to its nearest positioned ancestor (the initial containing block if there isn't one), fixed positioning usually fixes an element in place relative to the visible portion of the viewport.
 
 ## JavaScript: Reusable Blocks of Code
 
@@ -49,6 +49,11 @@ When we create a function we are defining a function, but in order to use it lat
 ### What is the difference between a parameter and an argument?
 
 Function parameters are the names listed in the function declaration, whereas function arguments are the real values passed to and received by the function.
+
+## Two Benefits to pair programming
+
+- Pair programming can help me learn from my fellow colleagues and they can learn from me different ways of doing code to get to the same solution.
+- Pair programming can also be useful for collaboration and solve complex problems that require the integration of different skill sets.
 
 ## Things I want to know more about
 
@@ -63,3 +68,5 @@ Write CSS code changing CSS normal flow layout.
 [https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Positioning](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Positioning)
 
 [https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Functions](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Functions)
+
+[https://www.codefellows.org/blog/6-reasons-for-pair-programming/](https://www.codefellows.org/blog/6-reasons-for-pair-programming/)
