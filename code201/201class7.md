@@ -45,6 +45,7 @@ There are various careers and diplomas offered by this university. Each of these
 Constructors and classes.
 
 *References*
+
 [https://github.com/codefellows/domain_modeling#domain-modeling](https://github.com/codefellows/domain_modeling#domain-modeling)
 
 [https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Basics](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Basics)
@@ -52,3 +53,5 @@ Constructors and classes.
 [https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics#introducing_constructors](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics#introducing_constructors)
 
 [https://ui.dev/beginners-guide-to-javascript-prototype](https://ui.dev/beginners-guide-to-javascript-prototype)
+
+[https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Advanced](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Advanced)
